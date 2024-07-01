@@ -27,6 +27,11 @@ GIS 데이터를 이용한 애견 관련 사업 진단 데이터
 
 <br>
 
+## 분석
+![분석](img/analysis.png)
+
+<br>
+
 ## 진단 결과
 ![진단 결과](img/result.png)
 
